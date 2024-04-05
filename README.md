@@ -1,1 +1,18 @@
 # Exploratory-Data-Analysis-on-Drug-Datatset
+
+![Screenshot 2024-04-05 213913](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/a76e46f0-4c14-4690-a0b9-e14328161446)
+![Screenshot 2024-04-05 213935](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/d80dcd6d-64cd-41b1-b2ff-00d8668f248b)
+![Screenshot 2024-04-05 213958](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/d0d31a3d-8fb0-4c26-8c73-211b10303282)
+![Screenshot 2024-04-05 214022](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/4ce0f4a2-123b-47eb-8d28-54507869be67)
+![Screenshot 2024-04-05 214108](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/ce444572-d7dd-4a25-b871-483ee5e8dfe8)
+![Screenshot 2024-04-05 214130](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/d844fd49-ebb3-4cd4-a408-7e139fa282c9)
+![Screenshot 2024-04-05 214154](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/c4e92eb2-5e3f-4383-be89-2c4ffc88a1ec)
+![Screenshot 2024-04-05 214215](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/4c567c25-98d6-4b92-a00c-9db665c66821)
+![Screenshot 2024-04-05 215308](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/0fee9a58-f4f3-480a-9c8a-666fcf02e1de)
+![Screenshot 2024-04-05 215326](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/23275d35-17c9-4a59-91f3-67a934e3f72e)
+![Screenshot 2024-04-05 215344](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/ce339bf5-44ae-458d-8ec9-afea8f16149d)
+![Screenshot 2024-04-05 215401](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/795fcd37-610d-4b71-9fda-8fa2685da8fb)
+![Screenshot 2024-04-05 215419](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/51475d55-dca5-404f-b527-75a62b2d3336)
+![Screenshot 2024-04-05 215436](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/c7d07965-444f-40eb-9f5c-0813b79c8fd5)
+![Screenshot 2024-04-05 215459](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/9f7955e7-fd81-4cb6-b62e-a39ae39b6150)
+![Screenshot 2024-04-05 215520](https://github.com/NikitaJ2402/Exploratory-Data-Analysis-on-Drug-Datatset/assets/144002517/72e2a5a7-d599-4495-b690-91dde2bcd840)
